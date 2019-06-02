@@ -1,0 +1,8 @@
+# Editor
+.idea
+.vscode
+
+# Misc
+.DS_Store
+target
+**/*.rs.bk
