@@ -1,5 +1,6 @@
-pub struct Solution;
 use super::libs::linked_list::{vec_to_list_node, ListNode};
+
+pub struct Solution;
 
 impl Solution {
     pub fn add_two_numbers(
