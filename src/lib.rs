@@ -14,4 +14,5 @@ mod n268_missing_number;
 mod n344_reverse_string;
 mod n412_fizz_buzz;
 mod n461_hamming_distance;
+mod n1051_height_checker;
 mod n1064_fixed_point;
