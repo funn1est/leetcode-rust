@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/house-robber/
+// https://leetcode-cn.com/problems/house-robber/
+
 use std::cmp::max;
 
 pub struct Solution;

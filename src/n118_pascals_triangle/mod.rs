@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/pascals-triangle/
+// https://leetcode-cn.com/problems/pascals-triangle/
+
 pub struct Solution;
 
 impl Solution {

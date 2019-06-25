@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/maximum-subarray/
+// https://leetcode-cn.com/problems/maximum-subarray/
+
 use std::cmp;
 
 pub struct Solution;

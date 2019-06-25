@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/hamming-distance/
+// https://leetcode-cn.com/problems/hamming-distance/
+
 pub struct Solution;
 
 impl Solution {
