@@ -18,6 +18,7 @@ mod n268_missing_number;
 mod n344_reverse_string;
 mod n412_fizz_buzz;
 mod n461_hamming_distance;
+mod n724_find_pivot_index;
 mod n905_sort_array_by_parity;
 mod n1002_find_common_characters;
 mod n1021_remove_outer_parentheses;

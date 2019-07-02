@@ -35,28 +35,16 @@ impl Solution {
 #[cfg(test)]
 mod test {
     use super::Solution;
-    use std::collections::HashSet;
-
-    fn to_hash_set(vec: Vec<String>) -> HashSet<String> {
-        vec.into_iter().fold(HashSet::new(), |mut set, current| {
-            set.insert(current);
-            set
-        })
-    }
 
     #[test]
     fn test_common_chars() {
         assert_eq!(
-            to_hash_set(Solution::common_chars(vec_of_string![
-                "bella", "label", "roller"
-            ])),
-            to_hash_set(vec_of_string!["e", "l", "l"])
+            Solution::common_chars(vec_of_string!["bella", "label", "roller"]),
+            vec_of_string!["e", "l", "l"]
         );
         assert_eq!(
-            to_hash_set(Solution::common_chars(vec_of_string![
-                "cool", "lock", "cook"
-            ])),
-            to_hash_set(vec_of_string!["c", "o"])
+            Solution::common_chars(vec_of_string!["cool", "lock", "cook"]),
+            vec_of_string!["c", "o"]
         );
     }
 }
