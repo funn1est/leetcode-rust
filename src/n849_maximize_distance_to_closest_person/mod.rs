@@ -18,14 +18,16 @@ impl Solution {
         }
 
         let mut res = left_max.max(right_max);
+        let mut middle_count = 0;
         for index in i + 1..j {
             if seats[index] == 0 {
-                middle_max += 1;
+                middle_count += 1;
             } else {
-                res = res.max((middle_max as f32 / 2.0).ceil() as i32);
-                middle_max = 0;
+                middle_max = middle_max.max(middle_count);
+                middle_count = 0;
             }
         }
+        middle_max = middle_max.max(middle_count);
         res.max((middle_max as f32 / 2.0).ceil() as i32)
     }
 }
