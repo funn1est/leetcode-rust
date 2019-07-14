@@ -25,4 +25,5 @@ mod n62_unique_paths;
 mod n724_find_pivot_index;
 mod n849_maximize_distance_to_closest_person;
 mod n905_sort_array_by_parity;
+mod n908_smallest_range_i;
 mod n9_palindrome_number;
