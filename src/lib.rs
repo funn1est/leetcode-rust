@@ -20,6 +20,7 @@ mod n3_longest_substring_without_repeating_characters;
 mod n412_fizz_buzz;
 mod n461_hamming_distance;
 mod n49_group_anagrams;
+mod n500_keyboard_row;
 mod n53_maximum_subarray;
 mod n62_unique_paths;
 mod n724_find_pivot_index;
