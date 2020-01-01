@@ -18,7 +18,7 @@ impl Solution {
         let mut start = 0;
 
         for (end, key) in s.chars().enumerate() {
-            if let Some(index) = map.get(&key) {
+            if let Some(_) = map.get(&key) {
                 start = cmp::max(start, map.get(&key).unwrap() + 1);
             }
             map.insert(key, end as i32);

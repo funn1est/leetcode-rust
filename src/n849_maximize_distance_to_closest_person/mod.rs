@@ -12,12 +12,12 @@ impl Solution {
             left_max += 1;
             i += 1;
         }
-        while j >= 0 && seats[j] == 0 {
+        while seats[j] == 0 {
             right_max += 1;
             j -= 1;
         }
 
-        let mut res = left_max.max(right_max);
+        let res = left_max.max(right_max);
         let mut middle_count = 0;
         for index in i + 1..j {
             if seats[index] == 0 {
