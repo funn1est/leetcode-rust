@@ -28,4 +28,5 @@ mod n75_sort_colors;
 mod n849_maximize_distance_to_closest_person;
 mod n905_sort_array_by_parity;
 mod n908_smallest_range_i;
+mod n976_largest_perimeter_triangle;
 mod n9_palindrome_number;
