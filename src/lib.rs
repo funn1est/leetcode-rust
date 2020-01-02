@@ -8,6 +8,7 @@ mod n1064_fixed_point;
 mod n1108_defanging_an_ip_address;
 mod n118_pascals_triangle;
 mod n11_container_with_most_water;
+mod n1295_find_numbers_with_even_number_of_digits;
 mod n13_roman_to_integer;
 mod n172_factorial_trailing_zeroes;
 mod n198_house_robber;
