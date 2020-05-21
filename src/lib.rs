@@ -12,6 +12,7 @@ mod n1295_find_numbers_with_even_number_of_digits;
 mod n1342_number_of_steps_to_reduce_a_number_to_zero;
 mod n13_roman_to_integer;
 mod n1450_number_of_students_doing_homework_at_a_given_time;
+mod n14_longest_common_prefix;
 mod n172_factorial_trailing_zeroes;
 mod n198_house_robber;
 mod n202_happy_number;
