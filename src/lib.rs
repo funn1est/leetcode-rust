@@ -10,6 +10,7 @@ mod n118_pascals_triangle;
 mod n11_container_with_most_water;
 mod n1221_split_a_string_in_balanced_strings;
 mod n1295_find_numbers_with_even_number_of_digits;
+mod n1309_decrypt_string_from_alphabet_to_integer_mapping;
 mod n1342_number_of_steps_to_reduce_a_number_to_zero;
 mod n13_roman_to_integer;
 mod n1413_minimum_value_to_get_positive_step_by_step_sum;
