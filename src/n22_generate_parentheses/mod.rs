@@ -54,6 +54,26 @@ impl Solution {
         Self::gen_all_1(n, n, "".to_owned(), &mut list);
         list
     }
+
+    pub fn generate_parenthesis_2(n: i32) -> Vec<String> {
+        let n = n as usize;
+        let mut dp = vec![vec![]; n + 1];
+        dp[0].push("".to_owned());
+        for i in 1..=n {
+            let mut list = vec![];
+            for j in 0..i {
+                let str1 = dp[j].clone();
+                let str2 = dp[i - 1 - j].clone();
+                for s1 in &str1 {
+                    for s2 in &str2 {
+                        list.push("(".to_owned() + s1 + ")" + s2);
+                    }
+                }
+            }
+            dp[i] = list;
+        }
+        dp[n].clone()
+    }
 }
 
 #[cfg(test)]
@@ -62,13 +82,13 @@ mod test {
 
     #[test]
     fn test_generate_parenthesis() {
-        assert_eq!(
-            Solution::generate_parenthesis(3),
-            vec_of_string!["((()))", "(()())", "(())()", "()(())", "()()()"]
-        );
-        assert_eq!(
-            Solution::generate_parenthesis_1(3),
-            vec_of_string!["((()))", "(()())", "(())()", "()(())", "()()()"]
-        );
+        let mut right = vec_of_string!["((()))", "(()())", "(())()", "()(())", "()()()"];
+        assert_eq!(Solution::generate_parenthesis(3), right);
+        assert_eq!(Solution::generate_parenthesis_1(3), right);
+
+        let mut left = Solution::generate_parenthesis_2(3);
+        left.sort();
+        right.sort();
+        assert_eq!(left, right);
     }
 }
