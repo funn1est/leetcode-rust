@@ -16,6 +16,7 @@ mod n13_roman_to_integer;
 mod n1413_minimum_value_to_get_positive_step_by_step_sum;
 mod n1431_kids_with_the_greatest_number_of_candies;
 mod n1450_number_of_students_doing_homework_at_a_given_time;
+mod n1480_running_sum_of_1d_array;
 mod n14_longest_common_prefix;
 mod n172_factorial_trailing_zeroes;
 mod n198_house_robber;
