@@ -11,5 +11,4 @@ pub enum LcError {
     NoRustCode,
 }
 
-/// Result type for kvs.
 pub type Result<T> = std::result::Result<T, Box<dyn Error>>;
