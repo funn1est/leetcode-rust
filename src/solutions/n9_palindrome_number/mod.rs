@@ -5,6 +5,7 @@ pub struct Solution {}
 
 impl Solution {
     pub fn is_palindrome(x: i32) -> bool {
+        #[allow(unused_doc_comments)]
         /// https://stackoverflow.com/a/24542608
         if x < 0 {
             return false;

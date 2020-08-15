@@ -24,6 +24,7 @@ impl Solution {
         res
     }
 
+    #[allow(dead_code)]
     pub fn freq_alphabets_1(s: String) -> String {
         let mut s = s.chars().rev();
         let mut res = "".to_string();

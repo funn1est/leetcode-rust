@@ -18,6 +18,7 @@ mod n1431_kids_with_the_greatest_number_of_candies;
 mod n1450_number_of_students_doing_homework_at_a_given_time;
 mod n1480_running_sum_of_1d_array;
 mod n14_longest_common_prefix;
+mod n1512_number_of_good_pairs;
 mod n172_factorial_trailing_zeroes;
 mod n198_house_robber;
 mod n202_happy_number;
