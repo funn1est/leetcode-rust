@@ -1,6 +1,6 @@
 /// https://leetcode.com/problems/find-common-characters/
+///
 /// https://leetcode-cn.com/problems/find-common-characters/
-
 pub struct Solution {}
 
 impl Solution {

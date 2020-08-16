@@ -1,7 +1,8 @@
-/// https://leetcode.com/problems/number-of-good-pairs/
-/// https://leetcode-cn.com/problems/number-of-good-pairs/
 use std::collections::HashMap;
 
+/// https://leetcode.com/problems/number-of-good-pairs/
+///
+/// https://leetcode-cn.com/problems/number-of-good-pairs/
 pub struct Solution {}
 
 impl Solution {

@@ -1,6 +1,6 @@
 /// https://leetcode.com/problems/maximize-distance-to-closest-person/
+///
 /// https://leetcode-cn.com/problems/maximize-distance-to-closest-person/
-
 pub struct Solution {}
 
 impl Solution {

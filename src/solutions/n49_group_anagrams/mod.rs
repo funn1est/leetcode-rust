@@ -1,7 +1,8 @@
-/// https://leetcode.com/problems/group-anagrams/
-/// https://leetcode-cn.com/problems/group-anagrams/
 use std::collections::HashMap;
 
+/// https://leetcode.com/problems/group-anagrams/
+///
+/// https://leetcode-cn.com/problems/group-anagrams/
 pub struct Solution {}
 
 impl Solution {

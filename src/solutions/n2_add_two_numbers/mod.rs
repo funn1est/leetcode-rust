@@ -1,9 +1,9 @@
-/// https://leetcode.com/problems/add-two-numbers/
-/// https://leetcode-cn.com/problems/add-two-numbers/
-
 #[allow(unused_imports)]
 use super::libs::linked_list::{vec_to_list_node, ListNode};
 
+/// https://leetcode.com/problems/add-two-numbers/
+///
+/// https://leetcode-cn.com/problems/add-two-numbers/
 pub struct Solution {}
 
 impl Solution {

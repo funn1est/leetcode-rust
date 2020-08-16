@@ -1,6 +1,6 @@
 /// https://leetcode.com/problems/remove-outermost-parentheses/
+///
 /// https://leetcode-cn.com/problems/remove-outermost-parentheses/
-
 pub struct Solution {}
 
 impl Solution {

@@ -1,6 +1,6 @@
 /// https://leetcode.com/problems/fixed-point/
+///
 /// https://leetcode-cn.com/problems/fixed-point/
-
 pub struct Solution {}
 
 impl Solution {

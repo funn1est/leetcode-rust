@@ -1,6 +1,6 @@
 /// https://leetcode.com/problems/smallest-range-i/
+///
 /// https://leetcode-cn.com/problems/smallest-range-i/
-
 pub struct Solution {}
 
 impl Solution {

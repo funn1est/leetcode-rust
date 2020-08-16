@@ -1,6 +1,6 @@
 /// https://leetcode.com/problems/defanging-an-ip-address/
+///
 /// https://leetcode-cn.com/problems/defanging-an-ip-address/
-
 pub struct Solution {}
 
 impl Solution {

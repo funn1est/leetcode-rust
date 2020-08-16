@@ -1,7 +1,8 @@
-/// https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
-/// https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies/
 use std::option::Option::Some;
 
+/// https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
+///
+/// https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies/
 pub struct Solution {}
 
 impl Solution {

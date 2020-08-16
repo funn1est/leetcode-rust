@@ -1,7 +1,8 @@
-/// https://leetcode.com/problems/house-robber/
-/// https://leetcode-cn.com/problems/house-robber/
 use std::cmp::max;
 
+/// https://leetcode.com/problems/house-robber/
+///
+/// https://leetcode-cn.com/problems/house-robber/
 pub struct Solution {}
 
 impl Solution {

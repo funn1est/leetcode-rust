@@ -70,7 +70,7 @@ impl LcCli {
             .append(true)
             .open("./src/solutions/mod.rs")
             .unwrap();
-        writeln!(lib_file, "mod {};", file_name)?;
+        writeln!(lib_file, "pub mod {};", file_name)?;
         Ok(())
     }
 }

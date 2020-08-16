@@ -1,7 +1,8 @@
-/// https://leetcode.com/problems/keyboard-row/
-/// https://leetcode-cn.com/problems/keyboard-row/
 use std::collections::HashMap;
 
+/// https://leetcode.com/problems/keyboard-row/
+///
+/// https://leetcode-cn.com/problems/keyboard-row/
 pub struct Solution {}
 
 impl Solution {

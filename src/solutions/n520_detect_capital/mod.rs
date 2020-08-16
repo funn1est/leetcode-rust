@@ -1,6 +1,6 @@
 /// https://leetcode.com/problems/detect-capital/
+///
 /// https://leetcode-cn.com/problems/detect-capital/
-
 pub struct Solution {}
 
 impl Solution {

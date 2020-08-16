@@ -1,6 +1,6 @@
 /// https://leetcode.com/problems/remove-element/
+///
 /// https://leetcode-cn.com/problems/remove-element/
-
 pub struct Solution {}
 
 impl Solution {

@@ -1,7 +1,8 @@
-/// https://leetcode.com/problems/jump-game/
-/// https://leetcode-cn.com/problems/jump-game/
 use std::cmp;
 
+/// https://leetcode.com/problems/jump-game/
+///
+/// https://leetcode-cn.com/problems/jump-game/
 pub struct Solution {}
 
 impl Solution {

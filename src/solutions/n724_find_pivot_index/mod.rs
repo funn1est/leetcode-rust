@@ -1,6 +1,6 @@
 /// https://leetcode.com/problems/find-pivot-index/
+///
 /// https://leetcode-cn.com/problems/find-pivot-index/
-
 pub struct Solution {}
 
 impl Solution {

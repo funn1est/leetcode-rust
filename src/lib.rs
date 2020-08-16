@@ -4,5 +4,5 @@ pub use errors::Result;
 mod cli;
 mod errors;
 mod services;
-mod solutions;
+pub mod solutions;
 mod types;

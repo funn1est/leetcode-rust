@@ -1,6 +1,6 @@
 /// https://leetcode.com/problems/split-a-string-in-balanced-strings/
+///
 /// https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/
-
 pub struct Solution {}
 
 impl Solution {

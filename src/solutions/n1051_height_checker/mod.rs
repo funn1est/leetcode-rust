@@ -1,6 +1,6 @@
 /// https://leetcode.com/problems/height-checker/
+///
 /// https://leetcode-cn.com/problems/height-checker/
-
 pub struct Solution {}
 
 impl Solution {

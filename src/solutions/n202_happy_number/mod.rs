@@ -1,7 +1,8 @@
-/// https://leetcode.com/problems/happy-number/
-/// https://leetcode-cn.com/problems/happy-number/
 use std::collections::HashMap;
 
+/// https://leetcode.com/problems/happy-number/
+///
+/// https://leetcode-cn.com/problems/happy-number/
 pub struct Solution {}
 
 impl Solution {

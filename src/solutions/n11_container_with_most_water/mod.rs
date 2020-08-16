@@ -1,7 +1,8 @@
-/// https://leetcode.com/problems/container-with-most-water/
-/// https://leetcode-cn.com/problems/container-with-most-water/
 use std::cmp;
 
+/// https://leetcode.com/problems/container-with-most-water/
+///
+/// https://leetcode-cn.com/problems/container-with-most-water/
 pub struct Solution {}
 
 impl Solution {

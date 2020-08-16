@@ -1,6 +1,6 @@
 /// https://leetcode.com/problems/missing-number/
+///
 /// https://leetcode-cn.com/problems/missing-number/
-
 pub struct Solution {}
 
 impl Solution {
