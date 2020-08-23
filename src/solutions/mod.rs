@@ -35,6 +35,7 @@ pub mod n49_group_anagrams;
 pub mod n500_keyboard_row;
 pub mod n520_detect_capital;
 pub mod n53_maximum_subarray;
+pub mod n557_reverse_words_in_a_string_iii;
 pub mod n55_jump_game;
 pub mod n62_unique_paths;
 pub mod n724_find_pivot_index;
