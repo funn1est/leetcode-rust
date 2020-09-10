@@ -18,6 +18,7 @@ pub mod n13_roman_to_integer;
 pub mod n1413_minimum_value_to_get_positive_step_by_step_sum;
 pub mod n1431_kids_with_the_greatest_number_of_candies;
 pub mod n1450_number_of_students_doing_homework_at_a_given_time;
+pub mod n1470_shuffle_the_array;
 pub mod n1480_running_sum_of_1d_array;
 pub mod n14_longest_common_prefix;
 pub mod n1512_number_of_good_pairs;
