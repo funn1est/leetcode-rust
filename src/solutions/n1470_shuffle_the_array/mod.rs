@@ -5,10 +5,9 @@ pub struct Solution {}
 
 impl Solution {
     pub fn shuffle(nums: Vec<i32>, n: i32) -> Vec<i32> {
-        let n = n as usize;
-        nums[..n]
+        nums[..n as usize]
             .iter()
-            .zip(nums[n..].iter())
+            .zip(nums[n as usize..].iter())
             .flat_map(|(&x, &y)| vec![x, y])
             .collect()
     }
