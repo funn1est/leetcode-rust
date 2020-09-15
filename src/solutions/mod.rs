@@ -40,6 +40,7 @@ pub mod n520_detect_capital;
 pub mod n53_maximum_subarray;
 pub mod n557_reverse_words_in_a_string_iii;
 pub mod n55_jump_game;
+pub mod n58_length_of_last_word;
 pub mod n62_unique_paths;
 pub mod n724_find_pivot_index;
 pub mod n75_sort_colors;
