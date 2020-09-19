@@ -29,6 +29,7 @@ pub mod n22_generate_parentheses;
 pub mod n238_product_of_array_except_self;
 pub mod n268_missing_number;
 pub mod n27_remove_element;
+pub mod n283_move_zeroes;
 pub mod n2_add_two_numbers;
 pub mod n344_reverse_string;
 pub mod n3_longest_substring_without_repeating_characters;
