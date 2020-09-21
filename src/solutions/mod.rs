@@ -25,6 +25,7 @@ pub mod n1512_number_of_good_pairs;
 pub mod n172_factorial_trailing_zeroes;
 pub mod n198_house_robber;
 pub mod n202_happy_number;
+pub mod n205_isomorphic_strings;
 pub mod n22_generate_parentheses;
 pub mod n238_product_of_array_except_self;
 pub mod n268_missing_number;
