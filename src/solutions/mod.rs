@@ -22,6 +22,7 @@ pub mod n1470_shuffle_the_array;
 pub mod n1480_running_sum_of_1d_array;
 pub mod n14_longest_common_prefix;
 pub mod n1512_number_of_good_pairs;
+pub mod n165_compare_version_numbers;
 pub mod n172_factorial_trailing_zeroes;
 pub mod n198_house_robber;
 pub mod n202_happy_number;
