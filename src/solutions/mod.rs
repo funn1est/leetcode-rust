@@ -15,6 +15,7 @@ pub mod n1299_replace_elements_with_greatest_element_on_right_side;
 pub mod n1309_decrypt_string_from_alphabet_to_integer_mapping;
 pub mod n1313_decompress_run_length_encoded_list;
 pub mod n1342_number_of_steps_to_reduce_a_number_to_zero;
+pub mod n136_single_number;
 pub mod n13_roman_to_integer;
 pub mod n1413_minimum_value_to_get_positive_step_by_step_sum;
 pub mod n1431_kids_with_the_greatest_number_of_candies;
