@@ -54,6 +54,7 @@ pub mod n62_unique_paths;
 pub mod n724_find_pivot_index;
 pub mod n75_sort_colors;
 pub mod n78_subsets;
+pub mod n844_backspace_string_compare;
 pub mod n849_maximize_distance_to_closest_person;
 pub mod n905_sort_array_by_parity;
 pub mod n908_smallest_range_i;
