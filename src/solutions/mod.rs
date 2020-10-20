@@ -27,6 +27,7 @@ pub mod n14_longest_common_prefix;
 pub mod n1512_number_of_good_pairs;
 pub mod n1572_matrix_diagonal_sum;
 pub mod n15_3sum;
+pub mod n1614_maximum_nesting_depth_of_the_parentheses;
 pub mod n165_compare_version_numbers;
 pub mod n172_factorial_trailing_zeroes;
 pub mod n198_house_robber;
