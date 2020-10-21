@@ -59,5 +59,7 @@ pub mod n844_backspace_string_compare;
 pub mod n849_maximize_distance_to_closest_person;
 pub mod n905_sort_array_by_parity;
 pub mod n908_smallest_range_i;
+pub mod n925_long_pressed_name;
 pub mod n976_largest_perimeter_triangle;
+pub mod n977_squares_of_a_sorted_array;
 pub mod n9_palindrome_number;
