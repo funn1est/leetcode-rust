@@ -1,14 +1,14 @@
-use std::fs;
-use std::io::Write;
-use std::path::Path;
+use std::{fs, io::Write, path::Path};
 
 use handlebars::Handlebars;
 use regex::Regex;
 use serde::Serialize;
 
-use crate::errors::{LcError, Result};
-use crate::services::question::get_question_data;
-use crate::types::query::CodeDefinition;
+use crate::{
+    errors::{LcError, Result},
+    services::question::get_question_data,
+    types::query::CodeDefinition,
+};
 
 #[derive(Serialize)]
 struct Params {
